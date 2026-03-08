@@ -22,7 +22,7 @@ I am a B.Tech student graduating in March 2026, focused on building intelligent 
 
 ### 📂 Some of my works
 
-- **[Health Recommendation System]([https://github.com/Shahil2/health-recommendation](https://github.com/Shahil2/Health_Recommendation))** - AI-based predictive wellness interface
+- **[Health Recommendation System](https://github.com/Shahil2/Health_Recommendation)** - AI-based predictive wellness interface
 - **[GestoMouse](https://github.com/Shahil2/GestoMouse)** - Computer vision application for gesture-based system control
 
 ---
