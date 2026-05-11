@@ -1,47 +1,56 @@
-# Hi 👋, I'm Mohammed Shahil
+<div align="center">
 
+# Hi 👋, I'm Mohammed Shahil
 ### Final Year Computer Science Student | Aspiring AI & Full-Stack Engineer 🚀
 
-I am a B.Tech student (Class of 2026) passionate about building intelligent systems and scalable web applications. I specialize in Artificial Intelligence and Machine Learning, with a strong focus on Computer Vision.
+![Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🎓 **Education:** B.Tech in Computer Science (Final Year)
-- 🛠️ **Current Projects:** Developing an AI Health Recommendation System and GestoMouse
-- 📜 **Certifications:** Completed IBM SkillsBuild "Introduction to Large Language Models"
-- 💬 **Ask me about:** Python, Django, OpenCV, and MediaPipe
-- 📈 **Goal:** Bridging the gap between complex AI models and user-friendly interfaces
+</div>
 
----
-
-
-### 🛠️ Languages and Tools
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🔭 About Me
+- 🎓 **Education:** Final Year B.Tech in CS (Class of 2026)
+- 🛠️ **What I'm doing now:** Developing **Smart Health** (Django + Gemini API) and refining **GestoMouse**.
+- 🚀 **Goals:** Mastering Computer Vision and creating seamless AI-integrated user experiences.
+- 🎬 **Creative Side:** Professional Video Editing and Color Grading in **DaVinci Resolve**.
+- 💬 **Ask me about:** Python, Django, OpenCV, and MediaPipe.
 
 ---
 
-### 📂 Top Projects
-
-- **[GestoMouse](https://github.com/Shahil2/GestoMouse)** - A Computer Vision application using Python and MediaPipe for hands-free system control via hand gestures.
-- **[Health Recommendation System](https://github.com/Shahil2/Health_Recommendation)** - A Machine Learning project using classification algorithms to provide predictive medical risk assessments.
+### 🛠️ Tech Stack & Tools
+<p align="left">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Connect with me
+### 📈 GitHub Stats
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-shahilkm)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mohd._shahil_/)
+| **Overall Stats** | **Most Used Languages** |
+| :--- | :--- |
+| ![Shahil's Stats](https://github-readme-stats.vercel.app/api?username=Shahil2&show_icons=true&theme=dracula&hide_border=true) | ![Shahil's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahil2&layout=compact&theme=dracula&hide_border=true) |
+
+</div>
+
+---
+
+### 📂 Featured Projects
+- **[GestoMouse](https://github.com/Shahil2/GestoMouse)** - Computer Vision for hands-free system control.
+- **[Health Recommendation System](https://github.com/Shahil2/Health_Recommendation)** - ML-based predictive medical risk assessment.
+- **[Smart Health](https://github.com/Shahil2)** - *Coming Soon:* Automated report analysis using Gemini AI.
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammed-shahilkm"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/mohd._shahil_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Shahil2&color=blueviolet" alt="Profile Views" />
+</div>
