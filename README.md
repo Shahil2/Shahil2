@@ -1,64 +1,47 @@
-<div align="center">
+# Hi 👋, I'm Mohammed Shahil
 
-<!-- Hero Header -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Hi,%20I'm%20Shahil&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+### Final Year Computer Science Student | Aspiring AI & Full-Stack Engineer 🚀
 
-### 🚀 Computer Science & IT Engineer | Python & AI Specialist
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shahil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+I am a B.Tech student (Class of 2026) passionate about building intelligent systems and scalable web applications. I specialize in Artificial Intelligence and Machine Learning, with a strong focus on Computer Vision.
 
-</div>
-
----
-
-## ⚡ About Me
-
-I am a final-year B.Tech student with a passion for building intelligent systems. I specialize in bridging the gap between high-level software development and real-world computer vision applications.
-
-*   🔭 **Current Focus:** Developing **Smart Health**, a Django-based platform utilizing Gemini AI for medical report analysis.
-*   🌱 **Learning:** Advanced Video Production workflows and refining Deep Learning models.
-*   🎯 **Goals:** Building scalable Full-Stack applications and contributing to Open Source AI projects.
-*   📫 **Reach Me:** Open to collaborations on Python, Django, or Computer Vision projects.
+- 🎓 **Education:** B.Tech in Computer Science (Final Year)
+- 🛠️ **Current Projects:** Developing an AI Health Recommendation System and GestoMouse
+- 📜 **Certifications:** Completed IBM SkillsBuild "Introduction to Large Language Models"
+- 💬 **Ask me about:** Python, Django, OpenCV, and MediaPipe
+- 📈 **Goal:** Bridging the gap between complex AI models and user-friendly interfaces
 
 ---
 
-## 🛠️ Tech Stack & Skills
 
-<div align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+### 🛠️ Languages and Tools
 
----
 
-## 📊 GitHub Analytics
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **GestoMouse** | Virtual mouse control using hand gestures and computer vision. | `Python`, `OpenCV`, `MediaPipe` |
-| **Smart Health** | AI-driven medical report parser and personalized wellness planner. | `Django`, `Gemini API`, `Python` |
-| **Health Predictor** | Machine learning model for predicting health risk levels. | `ML`, `Pandas`, `Scikit-Learn` |
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-black?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+### 📂 Top Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d2ff&style=flat" alt="Views" />
-</p>
+- **[GestoMouse](https://github.com/Shahil2/GestoMouse)** - A Computer Vision application using Python and MediaPipe for hands-free system control via hand gestures.
+- **[Health Recommendation System](https://github.com/Shahil2/Health_Recommendation)** - A Machine Learning project using classification algorithms to provide predictive medical risk assessments.
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-shahilkm)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mohd._shahil_/)
