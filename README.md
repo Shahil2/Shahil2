@@ -1,56 +1,87 @@
 <div align="center">
 
-# Hi 👋, I'm Mohammed Shahil
-### Final Year Computer Science Student | Aspiring AI & Full-Stack Engineer 🚀
+# ⚡ Mohammed Shahil
+### AI Engineer | Full-Stack Developer | Creative Technologist
 
-![Banner](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-</div>
-
-### 🔭 About Me
-- 🎓 **Education:** Final Year B.Tech in CS (Class of 2026)
-- 🛠️ **What I'm doing now:** Developing **Smart Health** (Django + Gemini API) and refining **GestoMouse**.
-- 🚀 **Goals:** Mastering Computer Vision and creating seamless AI-integrated user experiences.
-- 🎬 **Creative Side:** Professional Video Editing and Color Grading in **DaVinci Resolve**.
-- 💬 **Ask me about:** Python, Django, OpenCV, and MediaPipe.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student;AI+Health+Systems;Computer+Vision+Specialist;Video+Editing+%26+Design)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+<p align="center">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-connect-with-me">Connect</a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+</div>
+
+### 🔭 About Me
+- 🎓 **Academic:** Final Year B.Tech in CS (Class of 2026).
+- 🛠️ **Innovation:** Building **Smart Health**, a Django app integrating Gemini AI for automated medical report parsing.
+- 🤖 **Expertise:** Bridging the gap between **Computer Vision** (OpenCV/MediaPipe) and real-world utility.
+- 🎨 **Creative:** Specialized in high-end video production and color grading in **DaVinci Resolve**.
+
+---
+
+### 🛠️ Tech Stack
+
+<details open>
+  <summary><b>Programming & Back-end</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>AI, Vision & Tools</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-00C041?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</details>
+
+---
+
+### 📊 GitHub Analysis
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shahil2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahil2&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-| **Overall Stats** | **Most Used Languages** |
-| :--- | :--- |
-| ![Shahil's Stats](https://github-readme-stats.vercel.app/api?username=Shahil2&show_icons=true&theme=dracula&hide_border=true) | ![Shahil's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahil2&layout=compact&theme=dracula&hide_border=true) |
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahil2&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ### 📂 Featured Projects
-- **[GestoMouse](https://github.com/Shahil2/GestoMouse)** - Computer Vision for hands-free system control.
-- **[Health Recommendation System](https://github.com/Shahil2/Health_Recommendation)** - ML-based predictive medical risk assessment.
-- **[Smart Health](https://github.com/Shahil2)** - *Coming Soon:* Automated report analysis using Gemini AI.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[GestoMouse](https://github.com/Shahil2/GestoMouse)** | Virtual mouse control via hand gestures. | `Python` `OpenCV` `MediaPipe` |
+| **[Smart Health](https://github.com/Shahil2)** | AI-driven medical report analyzer. | `Django` `Gemini AI` `PostgreSQL` |
+| **[Health Predictor](https://github.com/Shahil2/Health_Recommendation)** | ML classification for risk assessment. | `Scikit-Learn` `Python` |
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-shahilkm"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/mohd._shahil_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohammed-shahilkm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/mohd._shahil_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Shahil2&color=blueviolet" alt="Profile Views" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Shahil2&color=45A1FF&style=flat-square&label=PROFILE+VIEWS" />
 </div>
