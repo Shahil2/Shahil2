@@ -35,16 +35,16 @@
 # 💻 Developer Terminal
 
 ```text
-                  ┌────────────────────────────────────────────────────────────┐
-                  │ Mohammed Shahil KM                                         │
-                  ├────────────────────────────────────────────────────────────┤
-                  │ Role        : Python & Full Stack Developer                │
-                  │ Location    : Kerala, India                                │
-                  │ Internship  : Product & Growth Intern @ DeepCodeX          │
-                  │ Research    : GestoMouse (Published - IJSREM)              │
-                  │ Interests   : Django • React • AI • DevOps                 │
-                  │ Currently   : Building scalable web applications           │
-                  └────────────────────────────────────────────────────────────┘
+                                  ┌────────────────────────────────────────────────────────────┐
+                                  │ Mohammed Shahil KM                                         │
+                                  ├────────────────────────────────────────────────────────────┤
+                                  │ Role        : Python & Full Stack Developer                │
+                                  │ Location    : Kerala, India                                │
+                                  │ Internship  : Product & Growth Intern @ DeepCodeX          │
+                                  │ Research    : GestoMouse (Published - IJSREM)              │
+                                  │ Interests   : Django • React • AI • DevOps                 │
+                                  │ Currently   : Building scalable web applications           │
+                                  └────────────────────────────────────────────────────────────┘
 ```
 
 ---
