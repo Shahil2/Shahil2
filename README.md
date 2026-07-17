@@ -35,21 +35,21 @@
 # 💻 Developer Terminal
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│ Mohammed Shahil KM                                         │
-├────────────────────────────────────────────────────────────┤
-│ Role        : Python & Full Stack Developer                │
-│ Location    : Kerala, India                                │
-│ Internship  : Product & Growth Intern @ DeepCodeX          │
-│ Research    : GestoMouse (Published - IJSREM)              │
-│ Interests   : Django • React • AI • DevOps                 │
-│ Currently   : Building scalable web applications           │
-└────────────────────────────────────────────────────────────┘
+                  ┌────────────────────────────────────────────────────────────┐
+                  │ Mohammed Shahil KM                                         │
+                  ├────────────────────────────────────────────────────────────┤
+                  │ Role        : Python & Full Stack Developer                │
+                  │ Location    : Kerala, India                                │
+                  │ Internship  : Product & Growth Intern @ DeepCodeX          │
+                  │ Research    : GestoMouse (Published - IJSREM)              │
+                  │ Interests   : Django • React • AI • DevOps                 │
+                  │ Currently   : Building scalable web applications           │
+                  └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Python & Full Stack Developer** passionate about building practical software that solves real-world problems.
 
@@ -66,45 +66,11 @@ My primary interests include:
 
 ---
 
-# 💼 Experience
-
-## Product & Growth Intern — DeepCodeX
-
-**May 2026 – August 2026**
-
-Working on:
-
-- Python & Django Development
-- Website Testing & Quality Assurance
-- SEO & Product Research
-- Feature Development
-- UI Improvements
-- Market Analysis
-- Product Growth
-
----
-
-# 📄 Research Publication
-
-## GestoMouse
-
-**GestoMouse: A Real-Time Gesture-Controlled Virtual Mouse System**
-
-Published in **IJSREM**
-
-**DOI**
-
-```
-10.55041/IJSREM49415
-```
-
----
-
 # 🛠 Tech Stack
 
 ## Languages
 
-<p>
+<p  align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 
@@ -114,7 +80,7 @@ Published in **IJSREM**
 
 ## Frontend
 
-<p>
+<p  align="center">
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
 
@@ -124,7 +90,7 @@ Published in **IJSREM**
 
 ## Backend
 
-<p>
+<p  align="center">
 
 <img src="https://skillicons.dev/icons?i=django,nodejs"/>
 
@@ -134,9 +100,9 @@ Published in **IJSREM**
 
 ## Database
 
-<p>
+<p  align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 </p>
 
@@ -144,15 +110,23 @@ Published in **IJSREM**
 
 ## Tools
 
-<p>
+<p  align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,notion"/>
+
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Docker
 - GitHub Actions
@@ -172,21 +146,6 @@ Published in **IJSREM**
 - 📚 Continue Learning Every Day
 
 ---
-
-# 📌 Featured Projects
-
-> These will become interactive project cards in **Part 2**.
-
-| Project | Status |
-|---------|--------|
-| 🏛 Temple Management System | ⭐ Featured |
-| 🖱 GestoMouse | ⭐ Published |
-| 🎓 DeepCodeX Academy | ⭐ Featured |
-| 🤖 Smart Health | ⭐ In Progress |
-| 📦 Warehouse Research | ⭐ Academic |
-
----
-
 <div align="center">
 
 ### ⭐ *"Building software that solves real-world problems."*
@@ -306,47 +265,6 @@ AI-assisted medical report analyzer.
 
 ---
 
-# 🏆 Achievements
-
-- 📄 Published Research Paper — **GestoMouse**
-- 💼 Product & Growth Intern — **DeepCodeX**
-- 🎓 B.Tech Computer Science Graduate
-- 💻 Developed Production Django Applications
-- 🚀 Passionate Full Stack Developer
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| Certification | Status |
-|---------------|--------|
-| Python Programming | ✅ |
-| Full Stack Development | ✅ |
-| Django Development | ✅ |
-| Git & GitHub | ✅ |
-| Research Publication | ✅ |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-> **Note:** Replace `YOUR_VERCEL_URL` after deploying your own GitHub Stats instance if you decide to self-host it. Until then, you can uncomment the public URLs if they're available again.
-
-<!--
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shahil2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahil2&layout=compact&theme=tokyonight&hide_border=true"/>
--->
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
