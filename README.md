@@ -4,29 +4,23 @@
 
 # 👋 Hi, I'm Mohammed Shahil KM
 
-### Python Developer • Full Stack Developer • Product & Growth Intern @ DeepCodeX
-
+### Python Developer • Full Stack Developer 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;React+Developer;Building+Real-World+Software;Published+Research+Author;Always+Learning+New+Technologies"/>
 </p>
 
 <p>
 
-<a href="https://github.com/Shahil2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/mohammed-shahilkm">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:mohammedshahil2002@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Shahil2&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
@@ -68,62 +62,52 @@ My primary interests include:
 
 # 🛠 Tech Stack
 
-## Languages
+# 🛠 Tech Stack
 
-<p  align="center">
+<h3 align="center">Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ---
 
-## Frontend
+<h3 align="center">Frontend</h3>
 
-<p  align="center">
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ---
 
-## Backend
+<h3 align="center">Backend</h3>
 
-<p  align="center">
-
-<img src="https://skillicons.dev/icons?i=django,nodejs"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
 ---
 
-## Database
+<h3 align="center">Database</h3>
 
-<p  align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ---
 
-## Tools
+<h3 align="center">Tools</h3>
 
-<p  align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,notion"/>
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,notion" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-
 </p>
-
 ---
 
 # Currently Learning
