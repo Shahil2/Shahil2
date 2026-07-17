@@ -60,7 +60,7 @@ My primary interests include:
 
 ---
 
-# 🛠 Tech Stack
+
 
 # 🛠 Tech Stack
 
@@ -70,7 +70,7 @@ My primary interests include:
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
----
+
 
 <h3 align="center">Frontend</h3>
 
@@ -78,7 +78,7 @@ My primary interests include:
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
----
+
 
 <h3 align="center">Backend</h3>
 
@@ -86,7 +86,7 @@ My primary interests include:
   <img src="https://skillicons.dev/icons?i=django,nodejs" />
 </p>
 
----
+
 
 <h3 align="center">Database</h3>
 
@@ -94,7 +94,6 @@ My primary interests include:
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
----
 
 <h3 align="center">Tools</h3>
 
@@ -108,6 +107,7 @@ My primary interests include:
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
 </p>
+
 ---
 
 # Currently Learning
