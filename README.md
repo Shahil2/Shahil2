@@ -178,37 +178,6 @@ A complete temple management platform developed during my internship at **DeepCo
 
 </td>
 
-<td width="50%">
-
-### 🖐 GestoMouse
-
-Real-time virtual mouse controlled using hand gestures.
-
-Published in **IJSREM**.
-
-#### Features
-
-- ✋ Hand Tracking
-- 🖱 Mouse Control
-- 👆 Gesture Recognition
-- 🎥 Real-time Camera Input
-
-**Tech**
-
-`Python`
-
-`OpenCV`
-
-`MediaPipe`
-
-<a href="https://github.com/Shahil2/GestoMouse">
-
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
-
-</a>
-
-</td>
-
 </tr>
 
 <tr>
@@ -227,34 +196,9 @@ Modern educational platform.
 
 </td>
 
-<td width="50%">
-
-### 🤖 Smart Health
-
-AI-assisted medical report analyzer.
-
-#### Tech
-
-- Django
-- Gemini AI
-- PostgreSQL
-
-</td>
-
 </tr>
 
 </table>
-
-</div>
-
----
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahil2&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
