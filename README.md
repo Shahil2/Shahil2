@@ -171,9 +171,42 @@ A complete temple management platform developed during my internship at **DeepCo
 <br>
 
 <a href="https://github.com/DeepCodeX-369/Kalam-Kandathur-Temple-Management-Web-App">
-
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
 
+</td>
+
+<td width="50%">
+
+### 🏫 St Gregorios English Medium School
+
+Official website for a CBSE-affiliated school in Kerala — a **freelance client project**, live in production.
+
+#### Features
+
+- 🌐 18-Page Responsive Static Site
+- 🎨 Custom Design System with Tailwind CSS
+- 📱 Mobile-First Layout
+- 🔍 SEO Optimized (JSON-LD, Sitemap, Open Graph)
+- 📋 CBSE Mandatory Disclosure Compliance
+- 🖼️ Gallery with Lightbox Viewer
+- 💬 WhatsApp & Formspree Integration
+
+**Tech**
+
+`HTML5`
+`Tailwind CSS`
+`JavaScript`
+`Formspree`
+`GitHub Pages`
+
+<br>
+
+<a href="https://github.com/Shahil2/StGems">
+<img src="https://img.shields.io/badge/View_Code-2563EB?style=for-the-badge"/>
+</a>
+<a href="https://stgregoriosems.org">
+<img src="https://img.shields.io/badge/Live_Site-10B981?style=for-the-badge"/>
 </a>
 
 </td>
@@ -181,6 +214,35 @@ A complete temple management platform developed during my internship at **DeepCo
 </tr>
 
 <tr>
+
+<td width="50%">
+
+### 🖐 GestoMouse
+
+Real-time virtual mouse controlled using hand gestures.
+
+Published in **IJSREM**.
+
+#### Features
+
+- ✋ Hand Tracking
+- 🖱 Mouse Control
+- 👆 Gesture Recognition
+- 🎥 Real-time Camera Input
+
+**Tech**
+
+`Python`
+`OpenCV`
+`MediaPipe`
+
+<br>
+
+<a href="https://github.com/Shahil2/GestoMouse">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
 
 <td width="50%">
 
@@ -193,6 +255,36 @@ Modern educational platform.
 - React
 - Tailwind
 - Vite
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Smart Health
+
+AI-assisted medical report analyzer.
+
+#### Features
+
+- 🏥 Medical Report Upload & Parsing
+- 🤖 AI-Powered Analysis with Gemini
+- 📊 Health Insights & Recommendations
+- 🔐 Secure Patient Data Handling
+
+**Tech**
+
+`Python`
+`Django`
+`Gemini AI`
+`PostgreSQL`
+
+</td>
+
+<td width="50%">
 
 </td>
 
