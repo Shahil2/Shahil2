@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mohammed Shahil KM
 
-### Python Developer • Full Stack Developer 
+### Python Developer • Full Stack Developer • DevOps
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;React+Developer;Building+Real-World+Software;Published+Research+Author;Always+Learning+New+Technologies"/>
 </p>
